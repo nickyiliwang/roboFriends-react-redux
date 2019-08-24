@@ -1,3 +1,12 @@
+## RoboFriends is a phone book for robots
+
+Features:
+1. created in react, with redux as the state management
+2. api request to jsonPlaceholder for the user data and mapped it with random generated robot profile pics from robohash
+3. utilizes axios for api get requests, and redux-thunk for middleware.
+4. has a search bar for looking up individual robots
+5. utilized tachyons for quick css and layouts
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
